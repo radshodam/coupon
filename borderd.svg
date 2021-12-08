@@ -1,0 +1,10 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 8 44" width="8" height="44">
+	<title>borderd</title>
+	<defs>
+		<image  width="16" height="44" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAsBAMAAACeZSWEAAAAAXNSR0IB2cksfwAAACFQTFRF/5kA/9aY/6ci//////bo/58P/8Jl/8t7/7VE/9me/6oq74hkEQAAACRJREFUeJxjYCAFCMEYJgFQhnECjFEAYzRAGZYwxQtGDSQKAABXYg1hFzvBtQAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<use id="Background" href="#img1" x="0" y="0" />
+</svg>
